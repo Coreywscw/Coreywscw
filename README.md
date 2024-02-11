@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>About Corey</h1>
+<p> Corey is 15 years old, some of his interests are </p>
 
 <!--
 **Coreywscw/Coreywscw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
