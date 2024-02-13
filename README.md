@@ -1,5 +1,13 @@
 <h1>About Corey</h1>
-<p> Corey is 15 years old, some of his interests are </p>
+<p> Corey is 15 years old, some of his interests are running, fishing and sleeping </p>
+<br>
+<p>Why did you choose digital tech? Because its interesting and if I wanted to and if I get good enough I could make a career out of digi tech.</p>
+<br
+<p>What do you want to do when you leave school? Rich person</p>
+<br>
+<p>What is your favourite/least favourite subject? My favourtite subject is sports academy because im haf decent at sport/physical activities and my least favourite subject is math because I have to use my brain.</p>
+<br>
+<p>How do you work best? In a group with my friends where im comfortable so i'm more likely to share my ideas/opinions.</p>
 
 <!--
 **Coreywscw/Coreywscw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
